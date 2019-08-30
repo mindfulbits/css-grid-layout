@@ -1,0 +1,42 @@
+// hero page
+.grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 100vh 50vh 50vh 50vh 50vh 50vh 50vh 50vh 50vh;
+    grid-gap: 1em;
+    grid-template-areas:    "header"
+                            "about"
+                            "instagram"
+                            "intrest"
+                            "current"
+                            "contact"
+                            "footer";
+    @media (min-width: $small-screen) {
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 100vh 50vh 50vh 50vh 50vh 50vh;
+        grid-template-areas:    "header header header"
+                                "about about instagram"
+                                "intrest intrest intrest"
+                                "current current current"
+                                "contact contact contact"
+                                "footer footer footer";
+    }   
+} 
+
+.about,
+.instagram,
+.intrest,
+.current,
+.contact,
+footer {
+    background: #ccc;
+    padding: 1em;
+}
+
+header { grid-area: header; }
+.about { grid-area: about; }
+.instagram { grid-area: instagram; }
+.intrest { grid-area: intrest; }
+.current  { grid-area: current; }
+.contact { grid-area: contact; }
+footer { grid-area: footer; }

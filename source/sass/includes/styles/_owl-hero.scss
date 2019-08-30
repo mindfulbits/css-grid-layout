@@ -1,0 +1,84 @@
+header {
+  color: #fff;
+  position: relative;
+  overflow: hidden;
+
+  .owl-1 {background-image: url(../img/IMG_5057.jpg);}  
+  .owl-2 {background-image: url(../img/IMG_3782.jpg);}  
+  .owl-3 {background-image: url(../img/IMG_3308.jpg);}  
+
+  .owl-slide-overlay {
+    background-color: rgba(4, 251, 198, 0.1);  
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+  }
+
+  .owl-slide-text-box {
+    background-color: rgba(0, 0, 0, 0.5);  
+    position: absolute;
+    left: 50%;
+    top: 33%;
+    transform: translateX(-50%);
+    padding: 10px 30px;
+    border: 1px solid #fff;
+  }
+
+  .owl-carousel .owl-slide {
+    position: relative;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .owl-carousel .owl-slide-animated {
+    transform: translateX(20px);
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.05s;
+  }
+
+  .owl-carousel .owl-slide-animated.is-transitioned {
+    transform: none;
+    opacity: 1;
+    visibility: visible;
+    transition: all 0.5s;
+  }
+
+  .owl-carousel .owl-slide-title.is-transitioned {transition-delay: 0.8s;}
+  .owl-carousel .owl-slide-subtitle.is-transitioned {transition-delay: 0.9  5s;}
+  .owl-carousel .owl-slide-cta.is-transitioned {transition-delay: 1s;}
+
+  .owl-carousel { 
+    .owl-dots, 
+    .owl-nav {
+      left: 50%;
+      top: 2%;
+      transform: translateX(-50%);
+      position: absolute;
+    }
+    .owl-nav {top: 75%;}
+  }
+  
+
+  @media (min-width: $medium-screen) {
+    .owl-carousel .owl-nav {top: 90%;}
+  }
+}
+// Global Owl Styles
+.owl-carousel .owl-nav svg {
+  opacity: 0.6;
+  transition: opacity 0.3s;
+  width: 44px;
+  height: 44px;
+  fill: currentColor;
+}
+
+.owl-carousel .owl-nav button:hover svg {
+  opacity: 1;
+}
+
+.owl-carousel .owl-nav [class*="owl-"]:hover {
+  background: transparent;
+}

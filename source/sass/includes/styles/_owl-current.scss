@@ -1,0 +1,21 @@
+
+.current {
+    position: relative;
+    overflow: hidden;    
+    .owl-carousel { 
+        height: 100%;
+        position: absolute;
+        .owl-stage-outer {
+            height: 100%;
+            position: absolute;
+        }
+        .owl-nav {
+            position: absolute;
+            height: 100%;
+            width: 100%;
+            button.owl-prev {left: 12%; position: absolute; top:50%;}
+            button.owl-next {right: 12%; position: absolute; top:50%;}
+        }
+    }
+    
+}

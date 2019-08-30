@@ -1,0 +1,17 @@
+/*! styles/varibles */
+@import "includes/styles/varibles";
+/*! vendor/normalize */
+@import "includes/vendor/normalize";
+/*! styles/main */
+@import "includes/styles/main";
+/*! styles/layout */
+@import "includes/styles/layout";
+/*! vendor/owl */
+@import "includes/vendor/owl-carousel/owl.carousel.scss";
+/*! vendor/Owl Theme */
+@import "includes/vendor/owl-carousel/owl.theme.default.scss";
+/*! styles/owl */
+@import "includes/styles/owl-hero";
+@import "includes/styles/owl-intrest";
+@import "includes/styles/owl-current";
+

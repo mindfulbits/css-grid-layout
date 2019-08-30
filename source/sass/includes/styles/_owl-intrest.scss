@@ -1,0 +1,17 @@
+
+.intrest {
+    position: relative;
+    overflow: hidden;
+    
+    .owl-carousel { 
+        height: 100%;
+        .owl-dots, 
+        .owl-nav {
+        left: 50%;
+        top: 50%;
+        transform: translateX(-50%);
+        position: absolute;
+        }
+        .owl-nav {top: 75%;}
+    }
+}
