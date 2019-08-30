@@ -454,6 +454,38 @@
 		"oAP": "/build/includes/_head.html",
 		"oF": 1
 		},
+	"/source/includes/content/_about.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/build/includes/content/_about.html",
+		"oF": 0
+		},
+	"/source/includes/content/_contact.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/build/includes/content/_contact.html",
+		"oF": 0
+		},
+	"/source/includes/content/_foot.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/build/includes/content/_foot.html",
+		"oF": 0
+		},
+	"/source/includes/content/_instagram.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/build/includes/content/_instagram.html",
+		"oF": 0
+		},
 	"/source/includes/content/_owl-current.kit": {
 		"cB": 0,
 		"ft": 2048,
