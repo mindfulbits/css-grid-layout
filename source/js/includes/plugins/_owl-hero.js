@@ -5,6 +5,9 @@ $(window).resize(() => {
   $slides.css("height", $(window).height());
 });*/
 
+//add class for JS avalible 
+$('.no-js--osa').addClass('owl-slide-animated').removeClass('no-js--osa');
+
 $("#owl-carousel-hero").on("initialized.owl.carousel", () => {
     setTimeout(() => {
       $(".owl-item.active .owl-slide-animated").addClass("is-transitioned");

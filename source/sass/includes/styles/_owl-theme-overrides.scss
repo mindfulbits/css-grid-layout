@@ -1,0 +1,15 @@
+.owl-carousel .owl-nav svg {
+    opacity: 0.6;
+    transition: opacity 0.3s;
+    width: 44px;
+    height: 44px;
+    fill: currentColor;
+  }
+  
+  .owl-carousel .owl-nav button:hover svg {
+    opacity: 1;
+  }
+  
+  .owl-carousel .owl-nav [class*="owl-"]:hover {
+    background: transparent;
+  }
