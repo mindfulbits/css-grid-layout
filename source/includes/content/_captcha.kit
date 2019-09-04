@@ -1,0 +1,24 @@
+<div class="form-data " data-grav-field="captcha" data-grav-disabled="" data-grav-default="null">
+        <script>
+            var captchaOnloadCallback_contact = function captchaOnloadCallback_contact() {
+            grecaptcha.render('g-recaptcha-contact', {
+                'sitekey': "6Lc1-lkUAAAAAPJFp6F2kzPUAvV1Tde06dwZ6i3H",
+                'callback': captchaValidatedCallback_contact,
+                'expired-callback': captchaExpiredCallback_contact
+                    });
+                };
+                var captchaValidatedCallback_contact = function captchaValidatedCallback_contact() {};
+                var captchaExpiredCallback_contact = function captchaExpiredCallback_contact() {
+                grecaptcha.reset();
+            };
+        </script>
+        <script src="https://www.google.com/recaptcha/api.js?onload=captchaOnloadCallback_contact&amp;render=explicit&amp;hl=&amp;theme=light " async="" defer=""></script>
+        <div class="g-recaptcha" id="g-recaptcha-contact">
+            <div style="width: 304px; height: 78px;">
+                <div>
+                    <iframe src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Lc1-lkUAAAAAPJFp6F2kzPUAvV1Tde06dwZ6i3H&amp;co=aHR0cDovL21pbmRmdWxiaXRzLmNvbTo4MA..&amp;hl=en&amp;v=v1565591531251&amp;size=normal&amp;cb=wp17rw5vct8o" width="304" height="78" role="presentation" name="a-qpwpmhuu5mrw" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation"></iframe>
+                </div>
+                <textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea>
+            </div>
+        </div>
+    </div>

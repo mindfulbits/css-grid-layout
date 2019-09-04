@@ -4,8 +4,23 @@
 @import "includes/vendor/normalize";
 /*! styles/main */
 @import "includes/styles/main";
+/*! styles/typography */
+@import "includes/styles/typography";
 /*! styles/layout */
 @import "includes/styles/layout";
+/*! styles/instafeed */
+@import "includes/styles/instafeed";
 /*! styles/owl */
 @import "includes/styles/owl";
-
+/*! styles/contact */
+@import "includes/styles/contact";
+/*! styles/foot */
+@import "includes/styles/foot";
+/*! styles/social */
+@import "includes/styles/social";
+/*! fontawesome */
+@import "includes/vendor/fontawesome/regular";
+@import "includes/vendor/fontawesome/solid";
+@import "includes/vendor/fontawesome/brands";
+@import "includes/vendor/fontawesome/fontawesome";
+@import "includes/vendor/fontawesome/v4-shims.scss";

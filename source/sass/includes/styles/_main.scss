@@ -12,7 +12,7 @@
    ========================================================================== */
 
 html {
-  color: #222;
+  color:$color-base-text;
   font-size: 1em;
   line-height: 1.4;
 }
@@ -28,12 +28,12 @@ html {
  */
 
 ::-moz-selection {
-  background: #b3d4fc;
+  background: $color-base-text;
   text-shadow: none;
 }
 
 ::selection {
-  background: #b3d4fc;
+  background: $color-base-text;
   text-shadow: none;
 }
 
@@ -45,7 +45,7 @@ hr {
   display: block;
   height: 1px;
   border: 0;
-  border-top: 1px solid #ccc;
+  border-top: 1px solid $color-base-mid;
   margin: 1em 0;
   padding: 0;
 }
@@ -89,8 +89,8 @@ textarea {
 
 .browserupgrade {
   margin: 0.2em 0;
-  background: #ccc;
-  color: #000;
+  background: $color-base-mid;
+  color: $color-base-dark;
   padding: 0.2em 0;
 }
 
@@ -209,7 +209,7 @@ textarea {
   *:before,
   *:after {
     background: transparent !important;
-    color: #000 !important;
+    color: $color-base-dark !important;
     /* Black prints faster */
     -webkit-box-shadow: none !important;
     box-shadow: none !important;
@@ -238,7 +238,7 @@ textarea {
   }
   pre,
   blockquote {
-    border: 1px solid #999;
+    border: 1px solid $color-base-dark;
     page-break-inside: avoid;
   }
   /*

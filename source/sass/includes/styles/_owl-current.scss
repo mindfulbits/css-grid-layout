@@ -1,21 +1,54 @@
-
 .current {
     position: relative;
-    overflow: hidden;    
+    overflow: hidden;
     .owl-carousel { 
         height: 100%;
-        position: absolute;
-        .owl-stage-outer {
-            height: 100%;
+        .owl-dots, 
+        .owl-nav {
+            left: 50%;
+            top: 50%;
+            transform: translateX(-50%);
             position: absolute;
         }
         .owl-nav {
             position: absolute;
-            height: 100%;
             width: 100%;
-            button.owl-prev {left: 12%; position: absolute; top:50%;}
-            button.owl-next {right: 12%; position: absolute; top:50%;}
+            button.owl-prev {left: 12%;}
+            button.owl-next{right: 12%;}
+            button.owl-prev, button.owl-next {position: absolute; top:50%; transform: translateY(-50%);}
         }
     }
-    
+
+    .currently {
+        position: relative;
+        .currently--content {
+            top:50%;
+            left: 50%;  
+            position: absolute;
+            text-align: center;
+            transform: translateX(-50%) translateY(-50%);
+            z-index: 2;
+            img {
+                border: 5px solid rgba($color-base-light, 0.5);
+                height: 200px; 
+                width: auto;
+                margin: 0 auto;
+            }
+        }
+        h2 {
+            text-align: center;
+            font-size: $base-font-size * 2; line-height: $base-line-height * 4; letter-spacing: 1px;
+        }
+        .currently--bg-img{
+            background-color: rgba($color-accent-one, .9);
+            height: 500px;
+            img{
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                opacity: .2;
+                z-index: 1;
+            }
+        }
+    }
 }

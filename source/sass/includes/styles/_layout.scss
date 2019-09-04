@@ -2,41 +2,58 @@
 .grid {
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: 100vh auto auto auto auto auto auto;
-    grid-gap: 1em;
+    grid-template-rows: 100vh auto auto auto auto auto auto auto  auto;
+    grid-gap: 0em;
     grid-template-areas:    "header"
                             "about"
                             "instagram"
                             "intrest"
                             "current"
                             "contact"
+                            "top"
+                            "social"
                             "footer";
     @media (min-width: $small-screen) {
-        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
         grid-template-rows: 100vh auto auto auto auto auto;
-        grid-template-areas:    "header header header"
-                                "about about instagram"
-                                "intrest intrest intrest"
-                                "current current current"
-                                "contact contact contact"
-                                "footer footer footer";
+        grid-template-areas:    "header header header header"
+                                "about about instagram instagram"
+                                "intrest intrest intrest intrest"
+                                "current current current current"
+                                "contact contact contact contact"
+                                "footer top top social";
     }   
 } 
-
 .about,
 .instagram,
-.intrest,
-.current,
-.contact,
-footer {
-    background: #ccc;
-    padding: 1em;
-}
+.intrest {padding: 1em;}
 
 header { grid-area: header; }
-.about { grid-area: about; }
-.instagram { grid-area: instagram; }
-.intrest { grid-area: intrest; }
+footer { grid-area: footer; }
+.about { 
+    background-color:  lighten($color-accent-two, 20%);
+    grid-area: about; 
+    @media (min-width: $small-screen){padding-left: 24%}
+}
+.instagram { 
+    background-color:  lighten($color-accent-two, 20%);
+    grid-area: instagram; 
+    @media (min-width: $small-screen){padding-right: 24%}
+}
+.intrest { 
+    grid-area: intrest; 
+    @media (min-width: $small-screen){padding: 1em 12%}
+}
 .current  { grid-area: current; }
 .contact { grid-area: contact; }
-footer { grid-area: footer; }
+.top { grid-area: top; }
+.social { grid-area: social; }
+
+
+
+
+.contact{
+background: linear-gradient(rgba($color-accent-two, 0.5), rgba($color-accent-two, 0.5)), url('../img/atl-bg.jpg') no-repeat;
+background-size: cover;
+background-blend-mode: overlay;
+}

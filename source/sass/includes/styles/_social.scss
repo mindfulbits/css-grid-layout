@@ -1,0 +1,16 @@
+.social-text {display: none;}
+.social a {
+    border-radius: 100%;
+    color: $color-base-light;
+    display: inline-block;
+    background-color: $color-accent-one;
+    border: 1px solid $color-base-dark;
+    text-align: center;
+    margin: 2px;
+    padding: 5px; 
+    width: 25px;
+    line-height: 25px;
+}
+.social a:hover {
+    background-color: $color-accent-two;
+}

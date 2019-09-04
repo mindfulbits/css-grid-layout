@@ -438,6 +438,204 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/source/img/recommendations/Aftershocks.jpeg": {
+		"ft": 16384,
+		"iS": 126408,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/recommendations/Aftershocks.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/source/img/recommendations/ArmOfTheSphinx.jpeg": {
+		"ft": 16384,
+		"iS": 113108,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/recommendations/ArmOfTheSphinx.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/source/img/recommendations/BackToWork.jpg": {
+		"ft": 16384,
+		"iS": 27981,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/recommendations/BackToWork.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/source/img/recommendations/Blackbeard.jpg": {
+		"ft": 16384,
+		"iS": 44917,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/recommendations/Blackbeard.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/source/img/recommendations/connected_artwork.png.jpeg": {
+		"ft": 16384,
+		"iS": 224106,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/recommendations/connected_artwork.png.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/source/img/recommendations/EatersOfTheDead.jpg": {
+		"ft": 16384,
+		"iS": 36615,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/recommendations/EatersOfTheDead.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/source/img/recommendations/Elevation.jpg": {
+		"ft": 16384,
+		"iS": 41505,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/recommendations/Elevation.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/source/img/recommendations/fargo.jpg": {
+		"ft": 16384,
+		"iS": 229652,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/recommendations/fargo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/source/img/recommendations/IAmLegend.jpg": {
+		"ft": 16384,
+		"iS": 38015,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/recommendations/IAmLegend.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/source/img/recommendations/killing_eve.jpg": {
+		"ft": 16384,
+		"iS": 118022,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/recommendations/killing_eve.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/source/img/recommendations/LifeOpenRoad.jpg": {
+		"ft": 16384,
+		"iS": 58850,
+		"jF": 0,
+		"oA": 2,
+		"oAP": "/build/img/recommendations/LifeOpenRoad.jpg",
+		"oF": 1,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/source/img/recommendations/mBot-Ranger.png": {
+		"ft": 32768,
+		"iS": 91182,
+		"oA": 0,
+		"oAP": "/build/img/recommendations/mBot-Ranger.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/img/recommendations/preacher.jpg": {
+		"ft": 16384,
+		"iS": 177385,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/recommendations/preacher.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/source/img/recommendations/rd_artwork.png.jpeg": {
+		"ft": 16384,
+		"iS": 179664,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/recommendations/rd_artwork.png.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/source/img/recommendations/Senlin Ascends.jpg": {
+		"ft": 16384,
+		"iS": 56425,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/recommendations/Senlin Ascends.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/source/img/recommendations/TheHodKing.jpeg": {
+		"ft": 16384,
+		"iS": 116428,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/recommendations/TheHodKing.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/source/img/recommendations/TheOutsider.jpg": {
+		"ft": 16384,
+		"iS": 33475,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/recommendations/TheOutsider.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/source/img/recommendations/TheStrangeCase.jpeg": {
+		"ft": 16384,
+		"iS": 126008,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/recommendations/TheStrangeCase.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/source/includes/_foot.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -462,6 +660,14 @@
 		"oAP": "/build/includes/content/_about.html",
 		"oF": 0
 		},
+	"/source/includes/content/_captcha.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/build/includes/content/_captcha.html",
+		"oF": 0
+		},
 	"/source/includes/content/_contact.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -476,6 +682,14 @@
 		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/includes/content/_foot.html",
+		"oF": 0
+		},
+	"/source/includes/content/_hero.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/build/includes/content/_hero.html",
 		"oF": 0
 		},
 	"/source/includes/content/_instagram.kit": {
@@ -510,6 +724,22 @@
 		"oAP": "/build/includes/content/_owl-intrest.html",
 		"oF": 0
 		},
+	"/source/includes/content/_social.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/build/includes/content/_social.html",
+		"oF": 0
+		},
+	"/source/includes/content/_top.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/build/includes/content/_top.html",
+		"oF": 0
+		},
 	"/source/includes/layouts/_hero.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -525,6 +755,17 @@
 		"oA": 0,
 		"oAP": "/build/index.html",
 		"oF": 1
+		},
+	"/source/js/includes/plugins/_instagram.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/build/js/includes/plugins/_instagram.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
 		},
 	"/source/js/includes/plugins/_owl-current.js": {
 		"bF": 0,
@@ -581,6 +822,171 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"/source/js/vendor/fontawesome/all.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/build/js/vendor/fontawesome/all.js",
+		"oF": 1,
+		"sC": 3,
+		"tS": 0
+		},
+	"/source/js/vendor/fontawesome/all.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/build/js/vendor/fontawesome/all.min.js",
+		"oF": 1,
+		"sC": 3,
+		"tS": 0
+		},
+	"/source/js/vendor/fontawesome/brands.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/build/js/vendor/fontawesome/brands.js",
+		"oF": 1,
+		"sC": 3,
+		"tS": 0
+		},
+	"/source/js/vendor/fontawesome/brands.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/build/js/vendor/fontawesome/brands.min.js",
+		"oF": 1,
+		"sC": 3,
+		"tS": 0
+		},
+	"/source/js/vendor/fontawesome/conflict-detection.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/build/js/vendor/fontawesome/conflict-detection.js",
+		"oF": 1,
+		"sC": 3,
+		"tS": 0
+		},
+	"/source/js/vendor/fontawesome/conflict-detection.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/build/js/vendor/fontawesome/conflict-detection.min.js",
+		"oF": 1,
+		"sC": 3,
+		"tS": 0
+		},
+	"/source/js/vendor/fontawesome/fontawesome.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/build/js/vendor/fontawesome/fontawesome.js",
+		"oF": 1,
+		"sC": 3,
+		"tS": 0
+		},
+	"/source/js/vendor/fontawesome/fontawesome.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/build/js/vendor/fontawesome/fontawesome.min.js",
+		"oF": 1,
+		"sC": 3,
+		"tS": 0
+		},
+	"/source/js/vendor/fontawesome/regular.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/build/js/vendor/fontawesome/regular.js",
+		"oF": 1,
+		"sC": 3,
+		"tS": 0
+		},
+	"/source/js/vendor/fontawesome/regular.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/build/js/vendor/fontawesome/regular.min.js",
+		"oF": 1,
+		"sC": 3,
+		"tS": 0
+		},
+	"/source/js/vendor/fontawesome/solid.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/build/js/vendor/fontawesome/solid.js",
+		"oF": 1,
+		"sC": 3,
+		"tS": 0
+		},
+	"/source/js/vendor/fontawesome/solid.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/build/js/vendor/fontawesome/solid.min.js",
+		"oF": 1,
+		"sC": 3,
+		"tS": 0
+		},
+	"/source/js/vendor/fontawesome/v4-shims.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/build/js/vendor/fontawesome/v4-shims.js",
+		"oF": 1,
+		"sC": 3,
+		"tS": 0
+		},
+	"/source/js/vendor/fontawesome/v4-shims.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/build/js/vendor/fontawesome/v4-shims.min.js",
+		"oF": 1,
+		"sC": 3,
+		"tS": 0
+		},
+	"/source/js/vendor/instafeed.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "/build/js/vendor/instafeed.min.js",
+		"oF": 1,
+		"sC": 3,
+		"tS": 0
+		},
 	"/source/js/vendor/jquery-3.4.1.min.js": {
 		"bF": 0,
 		"ft": 64,
@@ -630,6 +1036,45 @@
 		"oAP": "/build/robots.txt",
 		"oF": 1
 		},
+	"/source/sass/includes/styles/_contact.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/build/css/includes/styles/_contact.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/source/sass/includes/styles/_foot.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/build/css/includes/styles/_foot.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/source/sass/includes/styles/_instafeed.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/build/css/includes/styles/_instafeed.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"/source/sass/includes/styles/_layout.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -639,7 +1084,7 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "/build/css/includes/styles/_layout.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
@@ -652,7 +1097,7 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "/build/css/includes/styles/_main.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
@@ -665,7 +1110,7 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "/build/css/includes/styles/_owl-current.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
@@ -678,7 +1123,7 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "/build/css/includes/styles/_owl-hero.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
@@ -691,7 +1136,7 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "/build/css/includes/styles/_owl-intrest.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
@@ -704,7 +1149,7 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "/build/css/includes/styles/_owl-theme-overrides.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
@@ -717,7 +1162,33 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "/build/css/includes/styles/_owl.css",
+		"oF": 1,
+		"oS": 3,
+		"uL": 1
+		},
+	"/source/sass/includes/styles/_social.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/build/css/includes/styles/_social.css",
 		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/source/sass/includes/styles/_typography.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/build/css/includes/styles/_typography.css",
+		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
@@ -730,7 +1201,7 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "/build/css/includes/styles/_varibles.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
@@ -743,7 +1214,241 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "/build/css/includes/vendor/_normalize.css",
-		"oF": 0,
+		"oF": 1,
+		"oS": 3,
+		"uL": 1
+		},
+	"/source/sass/includes/vendor/fontawesome/_animated.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/build/css/includes/vendor/fontawesome/_animated.css",
+		"oF": 1,
+		"oS": 3,
+		"uL": 1
+		},
+	"/source/sass/includes/vendor/fontawesome/_bordered-pulled.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/build/css/includes/vendor/fontawesome/_bordered-pulled.css",
+		"oF": 1,
+		"oS": 3,
+		"uL": 1
+		},
+	"/source/sass/includes/vendor/fontawesome/_core.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/build/css/includes/vendor/fontawesome/_core.css",
+		"oF": 1,
+		"oS": 3,
+		"uL": 1
+		},
+	"/source/sass/includes/vendor/fontawesome/_fixed-width.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/build/css/includes/vendor/fontawesome/_fixed-width.css",
+		"oF": 1,
+		"oS": 3,
+		"uL": 1
+		},
+	"/source/sass/includes/vendor/fontawesome/_icons.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/build/css/includes/vendor/fontawesome/_icons.css",
+		"oF": 1,
+		"oS": 3,
+		"uL": 1
+		},
+	"/source/sass/includes/vendor/fontawesome/_larger.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/build/css/includes/vendor/fontawesome/_larger.css",
+		"oF": 1,
+		"oS": 3,
+		"uL": 1
+		},
+	"/source/sass/includes/vendor/fontawesome/_list.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/build/css/includes/vendor/fontawesome/_list.css",
+		"oF": 1,
+		"oS": 3,
+		"uL": 1
+		},
+	"/source/sass/includes/vendor/fontawesome/_mixins.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/build/css/includes/vendor/fontawesome/_mixins.css",
+		"oF": 1,
+		"oS": 3,
+		"uL": 1
+		},
+	"/source/sass/includes/vendor/fontawesome/_rotated-flipped.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/build/css/includes/vendor/fontawesome/_rotated-flipped.css",
+		"oF": 1,
+		"oS": 3,
+		"uL": 1
+		},
+	"/source/sass/includes/vendor/fontawesome/_screen-reader.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/build/css/includes/vendor/fontawesome/_screen-reader.css",
+		"oF": 1,
+		"oS": 3,
+		"uL": 1
+		},
+	"/source/sass/includes/vendor/fontawesome/_shims.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/build/css/includes/vendor/fontawesome/_shims.css",
+		"oF": 1,
+		"oS": 3,
+		"uL": 1
+		},
+	"/source/sass/includes/vendor/fontawesome/_stacked.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/build/css/includes/vendor/fontawesome/_stacked.css",
+		"oF": 1,
+		"oS": 3,
+		"uL": 1
+		},
+	"/source/sass/includes/vendor/fontawesome/_variables.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/build/css/includes/vendor/fontawesome/_variables.css",
+		"oF": 1,
+		"oS": 3,
+		"uL": 1
+		},
+	"/source/sass/includes/vendor/fontawesome/brands.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/build/css/includes/vendor/fontawesome/brands.css",
+		"oF": 1,
+		"oS": 3,
+		"uL": 1
+		},
+	"/source/sass/includes/vendor/fontawesome/fontawesome.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/build/css/includes/vendor/fontawesome/fontawesome.css",
+		"oF": 1,
+		"oS": 3,
+		"uL": 1
+		},
+	"/source/sass/includes/vendor/fontawesome/regular.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/build/css/includes/vendor/fontawesome/regular.css",
+		"oF": 1,
+		"oS": 3,
+		"uL": 1
+		},
+	"/source/sass/includes/vendor/fontawesome/solid.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/build/css/includes/vendor/fontawesome/solid.css",
+		"oF": 1,
+		"oS": 3,
+		"uL": 1
+		},
+	"/source/sass/includes/vendor/fontawesome/v4-shims.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/build/css/includes/vendor/fontawesome/v4-shims.css",
+		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
@@ -756,7 +1461,7 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "/build/css/includes/vendor/owl-carousel/_animate.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
@@ -769,7 +1474,7 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "/build/css/includes/vendor/owl-carousel/_autoheight.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
@@ -782,7 +1487,7 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "/build/css/includes/vendor/owl-carousel/_core.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
@@ -795,7 +1500,7 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "/build/css/includes/vendor/owl-carousel/_lazyload.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
@@ -808,7 +1513,7 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "/build/css/includes/vendor/owl-carousel/_theme.default.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
@@ -821,7 +1526,7 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "/build/css/includes/vendor/owl-carousel/_theme.green.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
@@ -834,7 +1539,7 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "/build/css/includes/vendor/owl-carousel/_theme.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
@@ -847,7 +1552,7 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "/build/css/includes/vendor/owl-carousel/_video.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
@@ -860,7 +1565,7 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "/build/css/includes/vendor/owl-carousel/owl.carousel.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
@@ -873,7 +1578,7 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "/build/css/includes/vendor/owl-carousel/owl.theme.default.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
@@ -884,9 +1589,9 @@
 		"dS": 0,
 		"ft": 4,
 		"ma": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/css/includes/vendor/owl-carousel/owl.theme.green.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
@@ -932,6 +1637,342 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 100
+		},
+	"/source/webfonts/fontawesome/fa-brands-400.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/fontawesome/fa-brands-400.eot",
+		"oF": 1
+		},
+	"/source/webfonts/fontawesome/fa-brands-400.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/fontawesome/fa-brands-400.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/source/webfonts/fontawesome/fa-brands-400.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/fontawesome/fa-brands-400.ttf",
+		"oF": 1
+		},
+	"/source/webfonts/fontawesome/fa-brands-400.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/fontawesome/fa-brands-400.woff",
+		"oF": 1
+		},
+	"/source/webfonts/fontawesome/fa-brands-400.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/fontawesome/fa-brands-400.woff2",
+		"oF": 1
+		},
+	"/source/webfonts/fontawesome/fa-regular-400.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/fontawesome/fa-regular-400.eot",
+		"oF": 1
+		},
+	"/source/webfonts/fontawesome/fa-regular-400.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/fontawesome/fa-regular-400.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/source/webfonts/fontawesome/fa-regular-400.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/fontawesome/fa-regular-400.ttf",
+		"oF": 1
+		},
+	"/source/webfonts/fontawesome/fa-regular-400.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/fontawesome/fa-regular-400.woff",
+		"oF": 1
+		},
+	"/source/webfonts/fontawesome/fa-regular-400.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/fontawesome/fa-regular-400.woff2",
+		"oF": 1
+		},
+	"/source/webfonts/fontawesome/fa-solid-900.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/fontawesome/fa-solid-900.eot",
+		"oF": 1
+		},
+	"/source/webfonts/fontawesome/fa-solid-900.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/fontawesome/fa-solid-900.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/source/webfonts/fontawesome/fa-solid-900.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/fontawesome/fa-solid-900.ttf",
+		"oF": 1
+		},
+	"/source/webfonts/fontawesome/fa-solid-900.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/fontawesome/fa-solid-900.woff",
+		"oF": 1
+		},
+	"/source/webfonts/fontawesome/fa-solid-900.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/fontawesome/fa-solid-900.woff2",
+		"oF": 1
+		},
+	"/source/webfonts/roboto/Roboto-Bold-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/roboto/Roboto-Bold-webfont.eot",
+		"oF": 1
+		},
+	"/source/webfonts/roboto/Roboto-Bold-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/roboto/Roboto-Bold-webfont.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/source/webfonts/roboto/Roboto-Bold-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/roboto/Roboto-Bold-webfont.ttf",
+		"oF": 1
+		},
+	"/source/webfonts/roboto/Roboto-Bold-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/roboto/Roboto-Bold-webfont.woff",
+		"oF": 1
+		},
+	"/source/webfonts/roboto/Roboto-Bold-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/roboto/Roboto-Bold-webfont.woff2",
+		"oF": 1
+		},
+	"/source/webfonts/roboto/Roboto-BoldItalic-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/roboto/Roboto-BoldItalic-webfont.eot",
+		"oF": 1
+		},
+	"/source/webfonts/roboto/Roboto-BoldItalic-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/roboto/Roboto-BoldItalic-webfont.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/source/webfonts/roboto/Roboto-BoldItalic-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/roboto/Roboto-BoldItalic-webfont.ttf",
+		"oF": 1
+		},
+	"/source/webfonts/roboto/Roboto-BoldItalic-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/roboto/Roboto-BoldItalic-webfont.woff",
+		"oF": 1
+		},
+	"/source/webfonts/roboto/Roboto-BoldItalic-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/roboto/Roboto-BoldItalic-webfont.woff2",
+		"oF": 1
+		},
+	"/source/webfonts/roboto/Roboto-Italic-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/roboto/Roboto-Italic-webfont.eot",
+		"oF": 1
+		},
+	"/source/webfonts/roboto/Roboto-Italic-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/roboto/Roboto-Italic-webfont.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/source/webfonts/roboto/Roboto-Italic-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/roboto/Roboto-Italic-webfont.ttf",
+		"oF": 1
+		},
+	"/source/webfonts/roboto/Roboto-Italic-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/roboto/Roboto-Italic-webfont.woff",
+		"oF": 1
+		},
+	"/source/webfonts/roboto/Roboto-Italic-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/roboto/Roboto-Italic-webfont.woff2",
+		"oF": 1
+		},
+	"/source/webfonts/roboto/Roboto-Regular-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/roboto/Roboto-Regular-webfont.eot",
+		"oF": 1
+		},
+	"/source/webfonts/roboto/Roboto-Regular-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/roboto/Roboto-Regular-webfont.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/source/webfonts/roboto/Roboto-Regular-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/roboto/Roboto-Regular-webfont.ttf",
+		"oF": 1
+		},
+	"/source/webfonts/roboto/Roboto-Regular-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/roboto/Roboto-Regular-webfont.woff",
+		"oF": 1
+		},
+	"/source/webfonts/roboto/Roboto-Regular-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/roboto/Roboto-Regular-webfont.woff2",
+		"oF": 1
+		},
+	"/source/webfonts/walkway/Walkway-Bold-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/walkway/Walkway-Bold-webfont.eot",
+		"oF": 1
+		},
+	"/source/webfonts/walkway/Walkway-Bold-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/walkway/Walkway-Bold-webfont.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/source/webfonts/walkway/Walkway-Bold-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/walkway/Walkway-Bold-webfont.ttf",
+		"oF": 1
+		},
+	"/source/webfonts/walkway/Walkway-Bold-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/walkway/Walkway-Bold-webfont.woff",
+		"oF": 1
+		},
+	"/source/webfonts/walkway/Walkway-Bold-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/webfonts/walkway/Walkway-Bold-webfont.woff2",
+		"oF": 1
 		}
 	},
 "hooks": [
@@ -944,7 +1985,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-hart",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 588861191.93328094
+	"lastBuiltDate": 589316315.14047098
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

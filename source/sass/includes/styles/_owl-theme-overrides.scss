@@ -13,3 +13,8 @@
   .owl-carousel .owl-nav [class*="owl-"]:hover {
     background: transparent;
   }
+  .owl-slide-text-box{
+    text-align: center;
+    h2, .title {font-size: $base-font-size * 3; line-height: $base-line-height * 3; letter-spacing: 1px;}
+  }
+  
