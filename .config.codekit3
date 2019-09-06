@@ -668,12 +668,28 @@
 		"oAP": "/build/includes/content/_about.html",
 		"oF": 0
 		},
+	"/source/includes/content/_archive.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/build/includes/content/_archive.html",
+		"oF": 0
+		},
 	"/source/includes/content/_captcha.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/includes/content/_captcha.html",
+		"oF": 0
+		},
+	"/source/includes/content/_contact-form.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/build/includes/content/_contact-form.html",
 		"oF": 0
 		},
 	"/source/includes/content/_contact.kit": {
