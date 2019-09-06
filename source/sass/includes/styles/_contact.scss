@@ -1,3 +1,6 @@
-.contact {
+#contact{
+    background: linear-gradient(rgba($color-accent-two, 0.5), rgba($color-accent-two, 0.5)), url('../img/atl-bg.jpg') no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
     color: $color-base-dark;
 }

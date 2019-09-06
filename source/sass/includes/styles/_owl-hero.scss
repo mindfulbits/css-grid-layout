@@ -17,7 +17,8 @@ header {
     background-color: rgba($color-base-dark, 0.5);  
     position: absolute;
     left: 50%;
-    top: 50%;
+    top: 40%;
+    @media (min-width: $extra-small-screen) { top: 50%; }
     transform: translateX(-50%) translateY(-50%);
     padding: 10px 30px;
     border: 1px solid #fff;
@@ -52,7 +53,8 @@ header {
   .owl-dots, 
   .owl-nav {
       left: 50%;
-      top: 50%;
+      top: 40%;
+      @media (min-width: $extra-small-screen) { top: 50%; }
       transform: translateX(-50%);
       position: absolute;
   }
@@ -62,5 +64,9 @@ header {
       button.owl-next{right: 12%;}
       button.owl-prev, button.owl-next {position: absolute; top:50%; transform: translateY(-50%);}
   }
-  .owl-dots{top: 95%;}
+  .owl-dots{
+    top: 70%;
+    @media (min-width: $extra-small-screen) { top: 90%; }
+  }
 }
+

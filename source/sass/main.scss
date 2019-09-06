@@ -8,6 +8,10 @@
 @import "includes/styles/typography";
 /*! styles/layout */
 @import "includes/styles/layout";
+/*! styles/nav */
+@import "includes/styles/nav";
+/*! styles/anchor-links */
+@import "includes/styles/anchor-links";
 /*! styles/instafeed */
 @import "includes/styles/instafeed";
 /*! styles/owl */
@@ -24,3 +28,5 @@
 @import "includes/vendor/fontawesome/brands";
 @import "includes/vendor/fontawesome/fontawesome";
 @import "includes/vendor/fontawesome/v4-shims.scss";
+/*! styles/social */
+//@import "includes/styles/no-js";

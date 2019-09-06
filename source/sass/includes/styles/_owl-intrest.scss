@@ -1,9 +1,8 @@
 
-.intrest {
+#intrest {
     color: $color-base-dark;
     position: relative;
     overflow: hidden;
-    padding-bottom: 120px;
     h2 {
         text-align: center;
         font-size: $base-font-size * 2; line-height: $base-line-height * 4; letter-spacing: 1px;
@@ -12,18 +11,18 @@
         height: 100%;
         .owl-dots, 
         .owl-nav {
-        left: 50%;
-        top: 110%;
-        transform: translateX(-50%);
-        position: absolute;
-        button.owl-prev { margin-right: 30px; }
-        button.owl-next {margin-left: 30px; }
+            left: 50%;
+            top: 110%;
+            transform: translateX(-50%);
+            position: absolute;
+            @media (min-width: $small-screen) {
+                button.owl-prev { margin-right: 30px; }
+                button.owl-next {margin-left: 30px; }
+            }
         }
         .owl-nav {top: 105%;}
     }
 }
-
-
 
 .intrest--info {
     background: $color-base-mid;

@@ -1,8 +1,11 @@
-// hero page
-.grid {
+// hero Layout
+.hero--grid {
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: 100vh auto auto auto auto auto auto auto  auto;
+    grid-template-rows: 100vh auto auto auto auto auto auto auto auto;
+    @media (min-width: $extra-small-screen){
+        grid-template-rows: 100vh auto auto auto auto auto auto auto auto;
+    }
     grid-gap: 0em;
     grid-template-areas:    "header"
                             "about"
@@ -12,7 +15,7 @@
                             "contact"
                             "top"
                             "social"
-                            "footer";
+                            "copy";
     @media (min-width: $small-screen) {
         grid-template-columns: 1fr 1fr 1fr 1fr;
         grid-template-rows: 100vh auto auto auto auto auto;
@@ -21,39 +24,29 @@
                                 "intrest intrest intrest intrest"
                                 "current current current current"
                                 "contact contact contact contact"
-                                "footer top top social";
+                                "copy top top social";
     }   
+    header { grid-area: header; }
+    #about { 
+        grid-area: about;
+        padding: 1em;
+        background-color:  lighten($color-accent-two, 20%);
+        @media (min-width: $small-screen){ padding: 110px 1em 110px 24%; }
+    }
+    #instagram { 
+        grid-area: instagram; 
+        background-color:  lighten($color-accent-two, 20%);
+        padding: 1em;
+        @media (min-width: $small-screen){ padding: 110px 24% 110px 1em; }
+    }
+    #intrest { 
+        grid-area: intrest;
+        padding: 1em 1em 120px 1em; 
+        @media (min-width: $small-screen){ padding: 110px 12% 140px 12%; }
+    }
+    #current  { grid-area: current; }
+    #contact { grid-area: contact; }
+    .top { grid-area: top; }
+    .social { grid-area: social; }
+    .copy { grid-area: copy; }
 } 
-.about,
-.instagram,
-.intrest {padding: 1em;}
-
-header { grid-area: header; }
-footer { grid-area: footer; }
-.about { 
-    background-color:  lighten($color-accent-two, 20%);
-    grid-area: about; 
-    @media (min-width: $small-screen){padding-left: 24%}
-}
-.instagram { 
-    background-color:  lighten($color-accent-two, 20%);
-    grid-area: instagram; 
-    @media (min-width: $small-screen){padding-right: 24%}
-}
-.intrest { 
-    grid-area: intrest; 
-    @media (min-width: $small-screen){padding: 1em 12%}
-}
-.current  { grid-area: current; }
-.contact { grid-area: contact; }
-.top { grid-area: top; }
-.social { grid-area: social; }
-
-
-
-
-.contact{
-background: linear-gradient(rgba($color-accent-two, 0.5), rgba($color-accent-two, 0.5)), url('../img/atl-bg.jpg') no-repeat;
-background-size: cover;
-background-blend-mode: overlay;
-}

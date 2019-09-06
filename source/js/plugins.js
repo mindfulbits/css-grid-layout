@@ -27,3 +27,5 @@
 // @codekit-append quiet "includes/plugins/_owl-intrest.js"
 // @codekit-append quiet "includes/plugins/_owl-current.js"
 // @codekit-append quiet "includes/plugins/_instagram.js"
+// @codekit-append quiet "includes/plugins/_scroll.js"
+// @codekit-append quiet "includes/plugins/_nav.js"

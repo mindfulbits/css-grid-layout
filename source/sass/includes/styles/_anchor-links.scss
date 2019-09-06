@@ -1,0 +1,14 @@
+.top, .anchor-link {
+    text-align: center;
+    span {display: none;}
+    i {font-size: 3em;}
+}
+.anchor-link--about {
+    left: 50%;
+    transform: translateX(-50%);
+    position: absolute;
+    top: 77%;
+    @media (min-width: $extra-small-screen) { top: 92%; }    
+    z-index: 3;
+  }
+

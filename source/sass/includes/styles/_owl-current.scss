@@ -1,4 +1,4 @@
-.current {
+#current {
     position: relative;
     overflow: hidden;
     .owl-carousel { 
@@ -21,9 +21,11 @@
 
     .currently {
         position: relative;
+        overflow: hidden;
         .currently--content {
             top:50%;
-            left: 50%;  
+            left: 50%; 
+            height: 450px; 
             position: absolute;
             text-align: center;
             transform: translateX(-50%) translateY(-50%);
@@ -32,21 +34,29 @@
                 border: 5px solid rgba($color-base-light, 0.5);
                 height: 200px; 
                 width: auto;
-                margin: 0 auto;
+                margin: 40px auto;
+                @media (min-width: $small-screen) { height: 250px; }
             }
+            a {display: none;}
         }
         h2 {
             text-align: center;
-            font-size: $base-font-size * 2; line-height: $base-line-height * 4; letter-spacing: 1px;
+            font-size: $base-font-size * 2; line-height: $base-line-height * 1.5; letter-spacing: 1px;
         }
         .currently--bg-img{
             background-color: rgba($color-accent-one, .9);
             height: 500px;
+            @media (min-width: $small-screen) {height: 720px;}
             img{
                 position: absolute;
                 top: 50%;
-                transform: translateY(-50%);
+                left: 50%;
+                transform: translateX(-50%) translateY(-50%);
                 opacity: .2;
+                height: auto;
+                min-height: 100%;
+                width: auto;
+                min-width: 100%;
                 z-index: 1;
             }
         }

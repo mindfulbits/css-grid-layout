@@ -1,3 +1,6 @@
+.social {
+    padding: .65em 0 1em 0;
+}
 .social-text {display: none;}
 .social a {
     border-radius: 100%;
@@ -5,7 +8,6 @@
     display: inline-block;
     background-color: $color-accent-one;
     border: 1px solid $color-base-dark;
-    text-align: center;
     margin: 2px;
     padding: 5px; 
     width: 25px;
